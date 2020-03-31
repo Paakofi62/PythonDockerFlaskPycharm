@@ -4,7 +4,10 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 [Download Assignment PDF Here](PPFSQL-Homework.pdf)
 
 [View Assignment Video Here](https://youtu.be/QbMWNgrfAFg)
-
+# SQL Data Screenshot
+![pycharm data query](screenshots/database.PNG)
+# Postman Screenshot
+![postman request output](screenshots/MyPostman.PNG)
 # Readings
 * [What is an HTTP API?](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 * [What is JSON?](https://www.w3schools.com/whatis/whatis_json.asp)
